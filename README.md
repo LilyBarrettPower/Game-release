@@ -1,2 +1,2 @@
 # Game-release
-Countdown to the game release
+This is the countdown to the game release
